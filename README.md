@@ -16,7 +16,6 @@ Download
 
 Get the latest Android version from the Releases section.
 
-Screenshots
 
 Add screenshots of SideMid here.
 
